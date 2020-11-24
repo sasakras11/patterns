@@ -1,6 +1,6 @@
 package com.company.state;
 
-public class StateTest {
+public class TestStatePattern {
 
     public static void main(String[] args) {
 
